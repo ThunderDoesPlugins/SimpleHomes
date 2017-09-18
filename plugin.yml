@@ -1,0 +1,16 @@
+name: SimpleHomes
+version: 1.0.0
+api: [3.0.0-ALPHA7]
+author: Thunder33345
+description: "Adds a simple homes system to your server!"
+main: Thunder33345\SimpleHomes\SimpleHomes
+
+commands:
+  managehome:
+    aliases: ['home']
+  gohome:
+    aliases: ['h','gh','gotohome']
+  lasthome:
+    aliases: ['lh']
+  quickhome:
+    aliases: ['qh']
