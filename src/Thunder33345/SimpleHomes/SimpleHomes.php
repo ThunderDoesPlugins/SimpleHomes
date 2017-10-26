@@ -1,5 +1,5 @@
 <?php
-declare(strict_types=true);
+declare(strict_types=1);
 /** Created By Thunder33345 **/
 namespace Thunder33345\SimpleHomes;
 
